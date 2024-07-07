@@ -46,7 +46,7 @@ These terms shall be governed and construed in accordance with the laws of the j
 
 ## 10. Contact Information
 
-If you have any questions about these Terms of Service, please contact us at [your contact email or Discord server link].
+If you have any questions about these Terms of Service, please contact us at ``fxlloutx@proton.me`` .
 
 ---
 
